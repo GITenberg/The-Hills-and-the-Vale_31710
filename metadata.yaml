@@ -1,0 +1,46 @@
+_repo: The-Hills-and-the-Vale_31710
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Thomas, Edward
+    aliases:
+    - Thomas, Philip Edward
+    - Eastaway, Edward
+    birthdate: 1878
+    deathdate: 1917
+    gutenberg_agent_id: '6876'
+    url: http://www.gutenberg.org/2009/agents/6876
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Thomas_%28poet%29
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jefferies, Richard
+    alias: Jefferies, John Richard
+    birthdate: 1848
+    deathdate: 1887
+    gutenberg_agent_id: '229'
+    url: http://www.gutenberg.org/2009/agents/229
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Jefferies
+description: ''
+gutenberg_issued: '2010-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31710'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history -- Outdoor books'
+- !lcsh 'Country life -- England'
+- !lcc 'QH'
+- !lcsh 'England -- Social life and customs -- 19th century'
+tableOfContents: Introduction -- Choosing a gun -- Skating -- Marlborough Forest --
+  Village churches -- Birds of spring -- The spring of the year -- Vignettes from
+  nature -- A king of acres -- The story of Swindon -- Unequal agriculture -- Village
+  organization -- The idle earth -- After the county franchise -- The Wiltshire labourer
+  -- On the downs -- The sun and the brook -- Nature and eternity -- The dawn.
+title: The Hills and the Vale
+url: http://www.gutenberg.org/ebooks/31710
